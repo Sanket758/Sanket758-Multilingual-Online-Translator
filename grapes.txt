@@ -1,0 +1,117 @@
+Arabic Translations:
+عنب
+
+Arabic Examples:
+Sir, you are eating strawberry and not grapes!
+سيدي، أنت تأكل فراولة وليس عنب
+
+German Translations:
+Trauben
+Weintrauben
+Traube
+Rebsorten
+Beeren
+
+German Examples:
+Grape varieties normally grown for the production of fresh grapes.
+Traubensorten, die normalerweise für die Erzeugung von frischen Trauben angebaut werden.
+
+Spanish Translations:
+uva
+vid
+racimos
+pasas
+granos
+
+Spanish Examples:
+Get table grapes easily and learn all about making wine.
+Obtener la uva de mesa fácilmente y aprender todo acerca de la elaboración del vino.
+
+French Translations:
+raisin
+grappes
+vigne
+grains
+vendange
+
+French Examples:
+After destemming, the grapes undergo a meticulous selection process.
+Après l'égrappage, le raisin passe par un méticuleux procédé de sélection.
+
+Hebrew Translations:
+ענבים
+
+Hebrew Examples:
+BoJack said he fed Affleck grapes.
+בוג"ק אמר שהוא האכיל את אפלק ענבים!
+
+Japanese Translations:
+ぶどう
+ブドウ
+葡萄
+
+Japanese Examples:
+Here you can experience harvesting precious sea grapes.
+こちらでは、そんな貴重な海ぶどうの摘み取り体験ができます。
+
+Dutch Translations:
+druiven
+vinograda
+druif
+rozijnen
+vinograd
+
+Dutch Examples:
+Harvest began on 24 September.Superb grapes.
+De oogst van de druiven startte op 24 september.
+
+Polish Translations:
+winogron
+winogrona
+vinograda
+winogronami
+winogronach
+
+Polish Examples:
+The hruškovému frgál I would recommend a selection of Sauvignon grapes with a pleasant residual sugar and hints of tropical fruit.
+Hruškovému Frgál Polecam wybór winogron Sauvignon z przyjemnym cukru resztkowego i nutą owoców tropikalnych.
+
+Portuguese Translations:
+uvas
+uva
+castas
+vinograda
+bagos
+
+Portuguese Examples:
+Produced exclusively Alvarinho from a careful selection of grapes.
+Produzido exclusivamente da casta Alvarinho a partir de uma criteriosaselecção de uvas.
+
+Romanian Translations:
+struguri
+strugurii
+strugurilor
+
+Romanian Examples:
+And wine from their own grapes.
+Și prin vin făcut din proprii lor struguri.
+
+Russian Translations:
+виноград
+винограда
+виноградом
+
+Russian Examples:
+I like neither apples nor grapes.
+Мне не нравятся ни яблоки, ни виноград.
+
+Turkish Translations:
+üzüm
+üzümler
+üzümleri
+üzümlerden
+
+Turkish Examples:
+Three picnic baskets, assorted cheeses, grapes, wine.
+Üç piknik sepeti, muhtelif peynirler, üzüm, şarap.
+

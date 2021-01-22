@@ -1,0 +1,23 @@
+Japanese Translations:
+こんにちは
+hello
+ハロー
+どうも
+もしもし
+
+Japanese Examples:
+The little boy said hello to me.
+小さな男の子が私にこんにちはと言った。
+
+To all aspiring pilots, hello!
+パイロットを目指しているみんな、こんにちは。
+
+they both produce: hello world.
+すなわち、両方共、hello　worldを出力します。
+
+The client and server exchange hello messages.
+クライアントとサーバがHelloメッセージを交換します。
+
+The transmitting unit broadcasts the first hello packet.
+送信部は、第１のハローパケットをブロードキャスト送信する。
+
