@@ -22,19 +22,19 @@ saludo
 buen día
 
 ### Spanish Examples:
-Well, hello, Miss Anchor-liar.
+Well, hello, Miss Anchor-liar.  
 Bien, hola, señorita presentadora de mentiras.
 
-Just saying hello in Kanpuriya tradition.
+Just saying hello in Kanpuriya tradition.  
 Solo digo Hola en la tradición de Kanpur.
 
-Say goodbye to embarrassing midway letdowns and say hello to a satisfying smile from your lover.
+Say goodbye to embarrassing midway letdowns and say hello to a satisfying smile from your lover.  
 Diga adiós a decepciones intermedios embarazosas y dices hola a una sonrisa satisfactoria de su amante.
 
-But hello... this is capitalism, or imperialism if you like.
+But hello... this is capitalism, or imperialism if you like.  
 Pero hola... este es el capitalismo, o si lo desea, el imperialismo.
 
-Tell them back - hello there in Delaware.
+Tell them back - hello there in Delaware.  
 Díganles allá. hola allá en Delaware.
 
 
