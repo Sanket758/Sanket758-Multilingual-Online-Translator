@@ -6,11 +6,11 @@ Supported Languages:  Arabic, German, English, Spanish, French, Hebrew, Japanese
 
 # Usage
 
->``` python translator.py source-language target-language word-to-be-translated ```
+``` python translator.py source-language target-language word-to-be-translated ```
 
 # Example:
 
->```  python translator.py english spanish hello ```
+```  python translator.py english spanish hello ```
 
 ## Output will look like this:
 
